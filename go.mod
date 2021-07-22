@@ -10,10 +10,9 @@ require (
 	github.com/improbable-eng/grpc-web v0.12.0
 	github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f // indirect
 	github.com/rs/cors v1.7.0 // indirect
-	go.mongodb.org/mongo-driver v1.3.4
+	go.mongodb.org/mongo-driver v1.5.1
 	golang.org/x/crypto v0.0.0-20200622213623-75b288015ac9
 	golang.org/x/net v0.0.0-20200625001655-4c5254603344
-	golang.org/x/text v0.3.3 // indirect
 	google.golang.org/grpc v1.29.1
 	google.golang.org/protobuf v1.24.0
 )
